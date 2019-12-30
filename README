@@ -1,0 +1,10 @@
+# Greek Computer Puzzle
+
+The [Greek Computer
+Puzzle](https://www.projectgeniusinc.com/true-genius-collection)
+consists of 5 toothed plates (4 movable) with
+12 columns each, and the objective is to line up all the plates so
+the visible numbers of each column sum to 42. This folder contains
+source code to brute-force the solution to this puzzle.
+
+Thanks, Mom.
